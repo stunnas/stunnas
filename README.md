@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chase and I’m interested in mobile app development as well as game design.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: chaseaalbritton@gmail.com
 
 <!---
