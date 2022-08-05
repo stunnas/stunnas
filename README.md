@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chase and I’m interested in mobile app development as well as game design.
+- 👋 Hi, I’m Chase and I’m interested in game design as well as mobile app development.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: chaseaalbritton@gmail.com
 
