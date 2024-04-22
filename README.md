@@ -4,6 +4,7 @@
 - Frameworks: React, Tailwind CSS
 
 - Looking to start website commissions soon.
+- caa-v1.vercel.app - my website
 - 📫 How to reach me: chaseaalbritton@gmail.com
 
 
