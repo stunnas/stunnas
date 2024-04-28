@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuri561&label=Profile%20views&color=0e75b6&style=flat" alt="yuri561" /> </p>
+
 - 👋 Hi, I’m Chase and I'm a self-motivated, highly adaptive and collaborative professional that is seeking opportunities to support and expand career growth in areas such as game, mobile app and web development. 
 
 - Languages: Javascript, Typescript, CSS, Java, C#, Swift, Python, SAS, SQL.
@@ -5,7 +7,6 @@
 
 - Looking to start website commissions soon.
 - caa-v1.vercel.app - my website
-- 📫 How to reach me: chaseaalbritton@gmail.com
 
 
 
