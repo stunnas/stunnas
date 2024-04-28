@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuri561&label=Profile%20views&color=0e75b6&style=flat" alt="yuri561" /> </p>
+<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=59696546" alt="profile stats" /> </p>
 
 - 👋 Hi, I’m Chase and I'm a self-motivated, highly adaptive and collaborative professional that is seeking opportunities to support and expand career growth in areas such as game, mobile app and web development. 
 
