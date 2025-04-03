@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Chase and I'm a self-motivated, highly adaptive and collaborative professional that is seeking opportunities to support and expand career growth in areas such as game, mobile app and web development. 
 
-- Looking to start website commissions soon.
 - <p><a href="https://caa-v2.vercel.app/" target="_blank">My website</a></p>
 
 
