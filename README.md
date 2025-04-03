@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=59696546" alt="profile stats" /> </p>
 
-- 👋 Hi, I’m Chase and I'm a self-motivated, highly adaptive and collaborative professional that is seeking opportunities to support and expand career growth in areas such as game, mobile app and web development. 
+<p>👋 Hi, I’m Chase and I'm a self-motivated, highly adaptive and collaborative professional that is seeking opportunities to support and expand career growth in areas such as game, mobile app and web development.</p>
 
-- <p><a href="https://caa-v2.vercel.app/" target="_blank">My website</a></p>
+<p><a href="https://caa-v2.vercel.app/" target="_blank">My website</a></p>
 
 
 
