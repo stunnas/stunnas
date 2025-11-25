@@ -1,11 +1,10 @@
 <div align="center">
 # Hi, I'm Chase Albritton  
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=15&no-frame=true"/>
-</a>
-
-<br /><br />
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true"/>
+  </a>
+</p>
 <!-- GitHub Stats -->
 <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
 <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
@@ -69,15 +68,20 @@
 
 ### 🧱 **Backend • Databases • DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,spring,postgres,mysql,mongodb,docker,postman,electron,tauri" />
 </p>
 
 ### 🔧 **Tools & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator,electron,tauri" />
+  <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator" />
 </p>
 
 ### 🎮 **Game Engines**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,roblox" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio" />
+</p>
+
+### 🎮 **Management Platorms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bitbucket,git,notion" />
 </p>
