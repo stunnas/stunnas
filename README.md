@@ -1,25 +1,18 @@
 <div align="center">
 
-# Hi, I'm Chase Albritton 👋  
-
+# Hi, I'm Chase Albritton  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=10" alt="stunnas trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=15&no-frame=true" width="200" />
 </a>
 
 <br /><br />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="400" />
-      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="400" />
-    </td>
-    <td>
-      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="400" />
-      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="400" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats -->
+<img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
+<img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
+
+<img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
+<img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
 
 </div>
 
@@ -48,13 +41,15 @@
 ## 🌐 Connect with me  
 
 <p align="left">
-  <a href="https://github.com/stunnas" target="_blank" style="margin-right: 16px;">
+  <a href="https://github.com/stunnas" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/calbritton/" target="_blank" style="margin-right: 16px;">
+
+  <a href="https://www.linkedin.com/in/calbritton/" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
-  <a href="https://instagram.com/caa.code" target="_blank" style="margin-right: 16px;">
+
+  <a href="https://instagram.com/caa.code" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
 </p>
@@ -63,19 +58,27 @@
 
 ## 🛠️ Languages and Tools  
 
+### 🧩 **Programming Languages**
 <p align="left">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,py,swift" />
-  <br /><br />
-  <!-- Frontend -->
+</p>
+
+### 🎨 **Frontend Development**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-  <br /><br />
-  <!-- Backend / Databases / DevOps -->
+</p>
+
+### 🧱 **Backend • Databases • DevOps**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,mongodb,docker" />
-  <br /><br />
-  <!-- Tools & Design -->
+</p>
+
+### 🔧 **Tools & Design**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator,electron" />
-  <br /><br />
-  <!-- Game Engines -->
+</p>
+
+### 🎮 **Game Engines**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
