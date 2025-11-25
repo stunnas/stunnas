@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td>
-        <h1>Hi, I'm Chase Albritton 👋</h1>
+        <h2>Hi, I'm Chase Albritton 👋</h2>
       </td>
       <td>
          <!-- Trophies -->
