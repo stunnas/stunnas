@@ -4,7 +4,6 @@
 <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stunnas&label=Profile views&color=0e75b6&style=flat" alt="stunnas" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits" alt="stunnas" /></a> </p>
 
