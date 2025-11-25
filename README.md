@@ -1,12 +1,8 @@
 <div align="center">
-
-<div>
 # Hi, I'm Chase Albritton  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=15&no-frame=true"/>
 </a>
-</div>
-
 
 <br /><br />
 
@@ -63,7 +59,7 @@
 
 ### 🧩 **Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,py,swift" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,java,js,ts,py,swift" />
 </p>
 
 ### 🎨 **Frontend Development**
@@ -78,10 +74,10 @@
 
 ### 🔧 **Tools & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator,electron" />
+  <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator,electron,tauri" />
 </p>
 
 ### 🎮 **Game Engines**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,roblox" />
 </p>
