@@ -1,11 +1,29 @@
 <div align="center">
 
 # Hi, I'm Chase Albritton 👋  
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=10" alt="stunnas trophies" />
 </a>
 
+<br /><br />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="400" />
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="400" />
+    </td>
+    <td>
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="400" />
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="400" />
+    </td>
+  </tr>
+</table>
+
 </div>
+
+---
 
 - 🔭 I'm currently working on **Homify**, a Tauri-powered desktop application that utilizes AI agents for tasks like a Pomodoro system, an LLM director, and n8n workflow integrations—bringing all tools into one unified program.
 
@@ -25,39 +43,39 @@
 
 - 📄 View my resume: **https://tinyurl.com/calbritton**
 
+---
+
 ## 🌐 Connect with me  
+
 <p align="left">
-<a href="https://github.com/stunnas" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/calbritton/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-<a href="https://instagram.com/caa.code" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
+  <a href="https://github.com/stunnas" target="_blank" style="margin-right: 16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/calbritton/" target="_blank" style="margin-right: 16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://instagram.com/caa.code" target="_blank" style="margin-right: 16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
 </p>
+
+---
 
 ## 🛠️ Languages and Tools  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,css,docker,electron,figma,git,html,illustrator,java,js,mongodb,mysql,nextjs,nodejs,photoshop,postgres,py,react,spring,swift,tailwind,ts,unity,unreal" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,py,swift" />
+  <br /><br />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <br /><br />
+  <!-- Backend / Databases / DevOps -->
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,mongodb,docker" />
+  <br /><br />
+  <!-- Tools & Design -->
+  <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator,electron" />
+  <br /><br />
+  <!-- Game Engines -->
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="400"/>
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="400"/>
-</td>
-<td>
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="400"/>
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="400"/>
-</td>
-</tr>
-</table>
-
-</div>
