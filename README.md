@@ -1,9 +1,12 @@
 <div align="center">
 
+<div>
 # Hi, I'm Chase Albritton  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=15&no-frame=true" width="200" />
+  <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=15&no-frame=true"/>
 </a>
+</div>
+
 
 <br /><br />
 
