@@ -1,20 +1,18 @@
+# Hi, I'm Chase Albritton👋
 <div align="center">
-# Hi, I'm Chase Albritton  
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true"/>
-  </a>
-</p>
-<!-- GitHub Stats -->
-<img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
-<img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
-
-<img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
-<img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
-
+  <!-- Trophies -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true"/>
+    </a>
+  </p>
+  <!-- GitHub Stats -->
+  <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
+  <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
+  
+  <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
+  <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
 </div>
-
----
 
 - 🔭 I'm currently working on **Homify**, a Tauri-powered desktop application that utilizes AI agents for tasks like a Pomodoro system, an LLM director, and n8n workflow integrations—bringing all tools into one unified program.
 
@@ -34,8 +32,6 @@
 
 - 📄 View my resume: **https://tinyurl.com/calbritton**
 
----
-
 ## 🌐 Connect with me  
 
 <p align="left">
@@ -52,13 +48,11 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Languages and Tools  
 
 ### 🧩 **Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,java,js,ts,py,swift" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,cpp,lua,swift" />
 </p>
 
 ### 🎨 **Frontend Development**
@@ -73,15 +67,10 @@
 
 ### 🔧 **Tools & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=git,bitbucket,notion,figma,photoshop,illustrator,pr" />
 </p>
 
 ### 🎮 **Game Engines**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio" />
-</p>
-
-### 🎮 **Management Platorms**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bitbucket,git,notion" />
 </p>
