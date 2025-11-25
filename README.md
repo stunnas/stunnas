@@ -1,4 +1,4 @@
-# Hi, I'm Chase Albritton 👋
+# Meet Chase Albritton 👋
 <div align="center">
   <table>
     <tr>
@@ -15,7 +15,6 @@
     </tr>
   </table>
   <!-- GitHub Stats -->
-  <br />
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
   
