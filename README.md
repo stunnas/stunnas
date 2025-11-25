@@ -2,7 +2,7 @@
 ### A passionate developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stunnas&label=Profile views&color=0e75b6&style=flat" alt="stunnas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Joined,Experience,Commits" alt="stunnas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Joined2020,Experience,Commits" alt="stunnas" /></a> </p>
 
 - 🔭 I'm currently working on **Homify, a Tauri-powered desktop application that utilizes AI agents for different tasks, including a Pomodoro system, LLM director, and more using n8n workflow integrations into one unified program.**
 
