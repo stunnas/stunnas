@@ -1,14 +1,11 @@
 <div align="center">
 
 # Hi, I'm Chase Albritton 👋  
-### A passionate developer  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits&margin-w=10" alt="stunnas trophies" />
 </a>
 
 </div>
-
----
 
 - 🔭 I'm currently working on **Homify**, a Tauri-powered desktop application that utilizes AI agents for tasks like a Pomodoro system, an LLM director, and n8n workflow integrations—bringing all tools into one unified program.
 
@@ -28,8 +25,6 @@
 
 - 📄 View my resume: **https://tinyurl.com/calbritton**
 
----
-
 ## 🌐 Connect with me  
 <p align="left">
 <a href="https://github.com/stunnas" target="_blank">
@@ -43,14 +38,10 @@
 </a>
 </p>
 
----
-
 ## 🛠️ Languages and Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,css,docker,electron,figma,git,html,huggingface,illustrator,java,js,mongodb,mysql,nextjs,nodejs,ollama,photoshop,postgres,py,react,spring,swift,tailwind,ts,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,css,docker,electron,figma,git,html,illustrator,java,js,mongodb,mysql,nextjs,nodejs,photoshop,postgres,py,react,spring,swift,tailwind,ts,unity,unreal" />
 </p>
-
----
 
 ## 📊 GitHub Stats  
 
