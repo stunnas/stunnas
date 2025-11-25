@@ -1,12 +1,9 @@
+# Hi, I'm Chase Albritton 👋
 <div align="center">
-
   <table>
     <tr>
       <td>
-        <h2>Hi, I'm Chase Albritton 👋</h2>
-      </td>
-      <td>
-         <!-- Trophies -->
+        <!-- Trophies -->
         <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img
             src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true&column=3"
@@ -17,7 +14,6 @@
       </td>
     </tr>
   </table>
-  
   <!-- GitHub Stats -->
   <br />
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
