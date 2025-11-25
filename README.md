@@ -1,18 +1,33 @@
-# Hi, I'm Chase Albritton👋
 <div align="center">
-  <!-- Trophies -->
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true"/>
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td>
+        <h1>Hi, I'm Chase Albritton 👋</h1>
+      </td>
+      <td>
+         <!-- Trophies -->
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img
+            src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true&column=3"
+            alt="GitHub Profile Trophies"
+            height="120"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
   <!-- GitHub Stats -->
+  <br />
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
   
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
   <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
+
 </div>
+
 
 - 🔭 I'm currently working on **Homify**, a Tauri-powered desktop application that utilizes AI agents for tasks like a Pomodoro system, an LLM director, and n8n workflow integrations—bringing all tools into one unified program.
 
