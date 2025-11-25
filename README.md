@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with me  
 
-<div align="left" style="gap: 100%">
+<div align="left" style="gap: 100%;">
   <a href="https://github.com/stunnas" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
   </a>
