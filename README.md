@@ -1,14 +1,15 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="left" valign="middle" style="border: none;">
-        <h1>Meet Chase Albritton 👋</h1>
-      </td>
-      <td align="right" valign="middle" style="border: none;">
-        <img src="https://komarev.com/ghpvc/?username=stunnas" />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+  <h1>
+    Meet Chase Albritton 👋
+    &nbsp;
+    <img
+      src="https://komarev.com/ghpvc/?username=stunnas"
+      alt="Profile views"
+      height="24"
+    />
+  </h1>
+</div>
   <br/>
   <table align="center">
     <tr>
