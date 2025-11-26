@@ -1,26 +1,30 @@
 <div align="center">
   <h1 align="center">Meet Chase Albritton 👋</h1>
   <br/>
-  <table>
-    <tr>
-      <td>
-        <!-- Trophies -->
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img
-            src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true&theme=aura&column=1&row=3"
-            alt="GitHub Profile Trophies"
-            height="120"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <!-- GitHub Stats -->
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
-  
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
-  <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
+  <table align="center">
+  <tr>
+    <!-- LEFT COLUMN – TROPHIES -->
+    <td align="center" valign="top" width="300">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&no-frame=true&theme=aura&margin-h=10&column=1"
+          width="200"
+        />
+      </a>
+    </td>
+    <!-- RIGHT COLUMN – GITHUB STATS -->
+    <td align="center" valign="top" width="500">
+      <!-- Overview (Dark / Light Mode Smart Swap) -->
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
+      <br/>
+      <!-- Languages (Dark / Light Mode Smart Swap) -->
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
