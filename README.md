@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">Meet Chase Albritton 👋</h1>
+  <div> <h1 align="center">Meet Chase Albritton 👋</h1> <img src="https://komarev.com/ghpvc/?username=stunnas"/></div>
+  
   <br/>
   <table align="center">
     <tr>
