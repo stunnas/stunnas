@@ -1,5 +1,6 @@
-# Meet Chase Albritton 👋
 <div align="center">
+  <h1 align="center">Meet Chase Albritton 👋</h1>
+  <br/>
   <table>
     <tr>
       <td>
