@@ -6,7 +6,7 @@
         <!-- Trophies -->
         <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img
-            src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-bg=true&theme=aura&column=3"
+            src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&margin-w=15&no-frame=true&theme=aura&column=3"
             alt="GitHub Profile Trophies"
             height="120"
           />
