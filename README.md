@@ -4,11 +4,11 @@
   <table align="center">
   <tr>
     <!-- LEFT COLUMN – TROPHIES -->
-    <td align="center" valign="top" width="300">
+    <td align="center" valign="top" width="250">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
           src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&no-frame=true&theme=aura&margin-h=10&column=1"
-          width="200"
+          width="150"
         />
       </a>
     </td>
@@ -21,7 +21,6 @@
       <!-- Languages (Dark / Light Mode Smart Swap) -->
       <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
       <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
-
     </td>
   </tr>
 </table>
