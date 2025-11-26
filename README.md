@@ -26,7 +26,9 @@
 </table>
 
 </div>
+
 ---
+
 - 🔭 I'm currently working on **Homify**, a Tauri-powered desktop application that utilizes AI agents for tasks like a Pomodoro system, an LLM director, and n8n workflow integrations—bringing all tools into one unified program.
 
 - 🌱 I'm currently learning **n8n and Docker.**
