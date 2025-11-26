@@ -1,6 +1,12 @@
 <div align="center">
-  <div> <h1 align="center">Meet Chase Albritton 👋</h1> <img src="https://komarev.com/ghpvc/?username=stunnas"/></div>
-  
+  <div align="center">
+    <span style="display: inline-block; vertical-align: middle;">
+      <h1>Meet Chase Albritton 👋</h1>
+    </span>
+    <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+      <img src="https://komarev.com/ghpvc/?username=stunnas" />
+    </span>
+  </div>
   <br/>
   <table align="center">
     <tr>
