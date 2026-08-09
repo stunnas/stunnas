@@ -20,6 +20,7 @@
             src="https://github-profile-trophy-tawny.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&theme=aura&margin-h=10&column=1"
             width="150"
           />
+          [![trophy](https://github-profile-trophy.vercel.app/?username=stunnas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
         </a>
       </td>
       <!-- RIGHT COLUMN – GITHUB STATS -->
