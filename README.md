@@ -20,7 +20,6 @@
             src="https://github-profile-trophy.vercel.app/?username=stunnas&title=Experience,Commits,Repositories&theme=aura&margin-h=10&column=1"
             width="150"
           />
-          
         </a>
       </td>
       <!-- RIGHT COLUMN – GITHUB STATS -->
