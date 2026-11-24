@@ -1,100 +1,103 @@
+
 <div align="center">
-  <div align="center">
-  <h1>
-    Meet Chase Albritton 👋
-    &nbsp;
-    <img
-      src="https://komarev.com/ghpvc/?username=stunnas"
-      alt="Profile views"
-      height="24"
-    />
-  </h1>
-</div>
-  <br/>
-  <table align="center">
-    <tr>
-      <!-- LEFT COLUMN – TROPHIES -->
-      <td align="center" valign="top" width="250">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img
-            src="https://trophy.ryglcloud.net/?username=stunnas&title=Experience,Commits,Repositories&theme=aura&margin-h=10&column=1"
-            width="150"
-          />
-        </a>
-      </td>
-      <!-- RIGHT COLUMN – GITHUB STATS -->
-      <td align="center" valign="top" width="500">
-        <!-- Overview (Dark / Light Mode Smart Swap) -->
-        <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" />
-        <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" />
-        <br/>
-        <!-- Languages (Dark / Light Mode Smart Swap) -->
-        <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" />
-        <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" />
-      </td>
-    </tr>
-  </table>
+
+# Hey, I'm Chase 👋
+
+**Solutions Engineer · Independent Software Developer · MBA Candidate**
+
+Building at the intersection of software engineering, AI, automation, and business.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calbritton/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://caa-v2.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caa.develops@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=stunnas&style=flat-square" alt="Profile views" />
+
+<br/><br/>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="250">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://trophy.ryglcloud.net/?username=stunnas&title=Experience,Commits,Repositories&theme=aura&margin-h=10&column=1" width="150" alt="GitHub trophies" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="500">
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="420" alt="GitHub overview" />
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" width="420" alt="GitHub overview" />
+      <br/>
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="420" alt="Programming languages" />
+      <img src="https://github.com/stunnas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" width="420" alt="Programming languages" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Homify**, a Tauri-powered desktop application that utilizes AI agents for tasks like a Pomodoro system, an LLM director, and n8n workflow integrations—bringing all tools into one unified program.
+I'm a Solutions Engineer at Tryon Solutions, working across enterprise software development, systems integration, technical consulting, and international implementations.
 
-- 🌱 I'm currently learning **n8n and Docker.**
+Outside of work, I build independent software projects, experiment with emerging technologies, and explore better ways to design, develop, and deliver software.
 
-- 👯 I'm looking to collaborate on **open-source tools for productivity, workflow automation, MCP servers, and developer tooling.**
+- 💼 Solutions Engineer @ Tryon Solutions
+- 🎓 MBA Candidate @ Elon University — May 2027
+- 💻 B.S. in Computer Science
+- 🎮 Minors in Game Design & Data Science
+- 🌎 International enterprise software implementation experience
+- 🚀 Interested in building software products from concept to release
 
-- 🤝 I'm looking for help with **packaging multi-platform apps (Mac + Windows).**
+## 🔭 What I'm Building
 
-- 💬 Ask me about **web, mobile app, and game development.**
+My current interests extend beyond traditional application development into the systems and tools that make building software better.
 
-- 📫 How to reach me: **caa.develops@gmail.com**
+- **Agentic AI** — Specialized agents, AI-assisted engineering, and context-aware workflows.
+- **Developer Tooling** — Reusable frameworks, plugins, automation, and engineering productivity.
+- **Knowledge Management** — Connecting structured knowledge systems with AI-driven development workflows.
+- **Infrastructure & Homelab** — Private networking, self-hosted services, and cross-platform automation.
+- **Product Development** — Exploring the intersection of technical innovation, user experience, and business value.
+- **Game Development** — Interactive systems, reusable gameplay frameworks, and development pipelines.
 
-- ⚡ Fun fact: **I once said “I’ll just make a small feature” and accidentally built an entire application. Oops.**
+Several projects are actively in development and will be made public when ready.
 
-- 👨‍💻 All of my projects are available at **https://caa-v2.vercel.app**
+## 🚀 Featured Projects
 
-- 📄 View my resume: **https://tinyurl.com/calbritton**
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [**Introspection**](https://store.steampowered.com/app/2796590/Introspection/) | Published 3D top-down action game featuring enemy encounters, boss battles, and narrative progression. My primary contribution was UI design and development alongside the development team. | Unity, C# |
+| [**Tailnet Desk**](https://github.com/stunnas/tailnet-desk) | Cross-platform remote access automation integrating Tailscale and RustDesk, with firewall configuration, installer verification, and automated testing. | PowerShell, Bash, GitHub Actions |
+| **AI-Assisted Engineering Toolkit** | An in-development toolkit combining personalized knowledge management, specialized AI reviewers, and automated engineering standards validation. | TypeScript, Claude Code, Bun, Obsidian |
 
-## 🌐 Connect with me  
+## 🛠️ Technology Stack
 
-<div align="left">
-  <a href="https://github.com/stunnas" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-  </a>
+### Programming Languages
 
-  <a href="https://www.linkedin.com/in/calbritton/" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,lua,swift,bash,powershell" />
 
-  <a href="https://instagram.com/caa.code" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
+### Web & Application Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,bun,electron,tauri" />
+
+### Infrastructure & Data
+
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql,supabase,githubactions,postman" />
+
+### Developer Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,obsidian,figma,ps,ai,pr" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio" />
+
+### Additional Technologies
+
+Claude Code · MCP · AI Agents · REST APIs · SQL · MOCA · Blue Yonder WMS · Tailscale · Jira · Confluence
+
+---
+
+<div align="center">
+
+**Always building, experimenting, and finding better ways to solve problems.**
+
 </div>
-
-## 🛠️ Languages and Tools  
-
-### 🧩 **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,cpp,lua,swift" />
-</p>
-
-### 🎨 **Frontend Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### 🧱 **Backend • Databases • DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,spring,postgres,mysql,mongodb,docker,postman,electron,tauri" />
-</p>
-
-### 🔧 **Tools & Design**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,bitbucket,notion,figma,photoshop,illustrator,pr" />
-</p>
-
-### 🎮 **Game Engines**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio" />
-</p>
