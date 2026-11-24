@@ -1,7 +1,14 @@
 
 <div align="center">
 
-# Hey, I'm Chase 👋
+<h1>
+  Hey, I'm Chase 👋 &nbsp;
+  <img
+    src="https://komarev.com/ghpvc/?username=stunnas&style=flat-square"
+    alt="Profile views"
+    height="20"
+  />
+</h1>
 
 **Solutions Engineer · Independent Software Developer · MBA Candidate**
 
@@ -11,15 +18,15 @@ Building at the intersection of software engineering, AI, automation, and busine
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://caa-v2.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caa.develops@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=stunnas&style=flat-square" alt="Profile views" />
-
-<br/><br/>
-
 <table align="center">
   <tr>
     <td align="center" valign="top" width="250">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://trophy.ryglcloud.net/?username=stunnas&title=Experience,Commits,Repositories&theme=aura&margin-h=10&column=1" width="150" alt="GitHub trophies" />
+        <img
+          src="https://trophy.ryglcloud.net/?username=stunnas&title=Experience,Commits,Repositories&theme=aura&margin-h=10&column=1"
+          width="150"
+          alt="GitHub trophies"
+        />
       </a>
     </td>
     <td align="center" valign="top" width="500">
